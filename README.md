@@ -1,0 +1,1 @@
+# Econometria-Espacial-e-Dados-Qualitativos
