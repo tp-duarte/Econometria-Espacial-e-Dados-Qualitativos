@@ -12,4 +12,4 @@ Nele abordei alguns aspectos demográficos na cidade de São Paulo, orientando a
 
 <br>
 
-Você pode ver os resultados completos do trabalho **[aqui](https://nbviewer.org/github/tp-duarte/Econometria-Espacial-e-Dados-Qualitativos/blob/main/EEDQ%20Trabalho%20Final%20-%20Thiago%20Pereira%20Duarte%20-Copy2.ipynb)**
+Você pode ver os resultados completos do trabalho **[aqui](https://nbviewer.org/github/tp-duarte/Econometria-Espacial-e-Dados-Qualitativos/blob/main/EEDQ%20Trabalho%20Final%20-%20Thiago%20Pereira%20Duarte%20-Copy2.ipynb)**.
