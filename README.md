@@ -6,7 +6,7 @@ Olá ! Tudo bem ? Este repositório contém o resultado final do meu trabalho re
 
 <br>
 
-Nele abordei alguns aspectos demográficos orientando a análise principalmente para o mercado de trabalho na cidade de São Paulo. Isso foi possível através de dados do IBGE, Ministério da Saúde e do IPEA.
+Nele abordei alguns aspectos demográficos na cidade de São Paulo, orientando a análise principalmente para o mercado de trabalho. Isso foi possível através de dados do IBGE, Ministério da Saúde e IPEA.
 
 <br>
 
