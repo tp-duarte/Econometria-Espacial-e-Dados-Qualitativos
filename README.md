@@ -2,7 +2,7 @@
 
 <br>
 
-Olá ! Tudo bem ? Este repositório contém o resultado final de um trabalho realizado na matéria de EEDQ, fornecida pela UNESP.  
+Olá ! Tudo bem ? Este repositório contém o resultado final do meu trabalho realizado na matéria de EEDQ, fornecida pela UNESP.  
 
 <br>
 
