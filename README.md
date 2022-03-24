@@ -9,7 +9,7 @@ Olá ! Tudo bem ? Este repositório contém o resultado final do meu trabalho re
 <br>
 
 Nele abordei alguns aspectos demográficos na cidade de São Paulo, orientando a análise principalmente para o mercado de trabalho. 
-Foram trabalhados conceitos como Razão de Dependência, Grau de Informalidade e Autocorrelação Espacial. Isso foi possível através de dados do fornecidos pelo IBGE, Ministério da Saúde e IPEA.
+Foram trabalhados conceitos como Razão de Dependência, Grau de Informalidade e Autocorrelação Espacial. Isso foi possível através de dados fornecidos pelo IBGE, Ministério da Saúde e IPEA.
 
 <br>
 
