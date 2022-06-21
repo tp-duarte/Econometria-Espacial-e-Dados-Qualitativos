@@ -2,6 +2,9 @@
 
 <br>
 
+![image](https://user-images.githubusercontent.com/69936708/174833379-84297f88-fc3c-4fd9-89a4-1d0d801d9f7c.png)
+
+
 <br>
 
 Olá ! Tudo bem ? Este repositório contém o resultado final do meu trabalho realizado na matéria de EEDQ, fornecida pela UNESP.  
